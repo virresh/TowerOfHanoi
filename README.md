@@ -5,4 +5,4 @@ An app for the classic game of Tower of Hanoi for Android Phones
 
 
 Get the APK here :
-https://github.com/virresh/TowerOfHanoi/raw/master/app/build/outputs/apk/app-release-unsigned.apk
+https://github.com/virresh/TowerOfHanoi/raw/master/app/build/outputs/apk/app-debug.apk
